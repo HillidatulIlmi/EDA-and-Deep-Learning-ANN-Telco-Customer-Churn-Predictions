@@ -14,3 +14,8 @@ The data set includes information about:
 - Services that each customer has signed up for => phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 - Customer account information => how long they been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 - Demographic info about customers => gender, age range, and if they have partners and dependents
+
+## Assigments Problems
+Predict customer churn for next time service. With two decisions (Class No) as a measurement of the percentage of customers who cancel or choose not to renew their subscription and can also indicate dissatisfaction with the product or service. While the decision (Class Yes) is a measurement of the percentage of customers who continue to renew their subscriptions and can also show that they still like and are comfortable with the product or service.
+
+
