@@ -22,6 +22,7 @@ The data set includes information about:
 
 ## Artificial Neural Network (ANN)
 ![Screen-Shot-2018-06-11-at-09 05 49-439x510](https://user-images.githubusercontent.com/105533908/181878730-56daab3c-8efd-4e5b-9cd6-1bc79e5a7051.png)
+
 Artificial Neural Networks (ANN) are multi-layer fully-connected neural nets that look like the figure below. They consist of an input layer, multiple hidden layers, and an output layer. Every node in one layer is connected to every other node in the next layer. We make the network deeper by increasing the number of hidden layers.
 
 Artificial neural networks (ANNs), usually simply called neural networks (NNs) or, more simply yet, neural nets,[1] are computing systems inspired by the biological neural networks that constitute animal brains.
